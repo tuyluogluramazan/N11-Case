@@ -13,5 +13,5 @@ Case Adımları:
 9.	Favorilere alinan bu urunun yanindaki 'Kaldir' butonuna basarak, favorilerimden cikaracak
 10.	Sayfada bu urunun artik favorilere alinmadigini onaylayacak.
 
-Değişilmesi Gereken Kısımlar:
+Değiştirilmesi Gereken Kısımlar:
 MainTest.cs 40. Satır: email,pass değişkenleri

@@ -2,7 +2,7 @@
 
 Case Adımları:
 
-1.	http://www.n11.com<http://www.n11.com/> sitesine gelecek ve anasayfanin acildigini onaylayacak
+1.	http://www.n11.com sitesine gelecek ve anasayfanin acildigini onaylayacak
 2.	Login ekranini acip, bir kullanici ile login olacak ( daha once siteye uyeliginiz varsa o olabilir )
 3.	Ekranin ustundeki Search alanina 'samsung' yazip Ara butonuna tiklayacak 
 4.	Gelen sayfada samsung icin sonuc bulundugunu onaylayacak 
